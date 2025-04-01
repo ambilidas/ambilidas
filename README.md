@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ambilidas
 - 👀 I’m interested in coding
-- 🌱 I’m currently working on HTML,CSS,ReactJS,Javascript,JQuery
+- 🌱 I’m currently working on HTML,CSS,ReactJS,Javascript,JQuery,Wordpress,PHP
 
 
 
